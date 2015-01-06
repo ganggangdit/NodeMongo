@@ -18,6 +18,7 @@ require([
 
         angular.bootstrap(document, [config.name]);
 
+
     });
 });
 

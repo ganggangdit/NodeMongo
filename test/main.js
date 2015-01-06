@@ -7,6 +7,9 @@ require([
     'config'
 ], function (config) {
 
+
+
+
     requirejs.config(config.require);
     require([
         'angular',

@@ -15,10 +15,7 @@ require([
         'angular-translate',
         'app'
     ], function () {
-
         angular.bootstrap(document, [config.name]);
-
-
     });
 });
 

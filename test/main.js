@@ -8,8 +8,7 @@ require([
 ], function (config) {
 
 
-
-
+   //todo branch_1
     requirejs.config(config.require);
     require([
         'angular',
